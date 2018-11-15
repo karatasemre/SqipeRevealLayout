@@ -1,1 +1,1 @@
-# SqipeRevealLayout
+# SwipeRevealLayout
